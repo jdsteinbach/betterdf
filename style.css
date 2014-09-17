@@ -1,6 +1,7 @@
 body {
   font-size: 1.2em;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: antialiased;
 }
 #Main {
   width: 100%;
